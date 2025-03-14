@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Decentralized Task Management System/DecentralizedTaskManagementSystem.sol": "DecentralizedTaskManagementSystem"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Decentralized Task Management System/DecentralizedTaskManagementSystem.sol": {
+			"keccak256": "0x63e6760f634bd53ed68c800505356ed68e4d8cd60954ab9b380452fa857aa137",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://01952fe70be6c68004ea36a6eba72012d9a57c03165485da9b3d293e852cf769",
+				"dweb:/ipfs/QmNwFXf5zU16Z1aWU5RtEfWRz7KLzqhRJipbBvZktbHFv1"
+			]
+		}
+	},
+	"version": 1
+}

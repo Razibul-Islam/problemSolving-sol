@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Token-Vault/Token-Vault.sol": "singleVault"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Token-Vault/Token-Vault.sol": {
+			"keccak256": "0x9d3d52b1fa677e324c25baf0817000f4bf73645c5ad254182d7b691880a48cf4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1910dd5a4e94b549dd8502363ff7ca56286c90549cf3ce3cde8de710a140211c",
+				"dweb:/ipfs/QmaMVCUeeVAW5t6suFVPvtqUXghaUbuMSwvDiqYJrSWkFF"
+			]
+		}
+	},
+	"version": 1
+}
