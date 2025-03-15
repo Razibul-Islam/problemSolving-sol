@@ -1,0 +1,83 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_user",
+						"type": "address"
+					}
+				],
+				"name": "getBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_user",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "balance",
+						"type": "uint256"
+					}
+				],
+				"name": "setBalance",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Copying Storage to Memory/CopyingStorageToMemory.sol": "CopyingStorageToMemory"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Copying Storage to Memory/CopyingStorageToMemory.sol": {
+			"keccak256": "0x70a94e4e5d014775422fe4df1f081fe4dd0f48430e67d9cd1a05f94250b9dd6c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7e8f8869f467485154099732516543d70c20486592e19a78ae00a2551a541d1c",
+				"dweb:/ipfs/QmPALnCfYUBQzcVNDj8Wfr3a8mXRgJRxFkDkx3TFXnsTdh"
+			]
+		}
+	},
+	"version": 1
+}

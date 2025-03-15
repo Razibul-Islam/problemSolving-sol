@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "data",
+						"type": "string"
+					}
+				],
+				"name": "getData",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"EfficientStringHandling/EfficientStringHandiling.sol": "EfficientStringHandling"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"EfficientStringHandling/EfficientStringHandiling.sol": {
+			"keccak256": "0xce14007c58ea5d233544b770b14fe26a5a7b5d192d1bb8cdb12bd797c0637638",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://85d81c9d5567eea8335c83d2666b619640f18bcdd7dfd5b806678febf2a8cd3f",
+				"dweb:/ipfs/QmTgJLaZRBj9DB6ZgdfnYqmwcXu4ZBEKKhTiFVtHdMd2A8"
+			]
+		}
+	},
+	"version": 1
+}

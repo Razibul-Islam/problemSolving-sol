@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "_data",
+						"type": "uint256[]"
+					}
+				],
+				"name": "setNum",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Memory Management Problems/ArrayCopyingToStringToMemory.sol": "ArrayCopyingToStorageToMemory"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Memory Management Problems/ArrayCopyingToStringToMemory.sol": {
+			"keccak256": "0xe7881232ed0e8a0c1e4550dde0a1f3f975bc83c9afadece6c5244859c37cba66",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://743ef1cd5a6efd953917224ee2eb06009f142eccec85bb0f9e7292b3a53e047a",
+				"dweb:/ipfs/QmWdk2CGkUzMZWC9L4NeXpSZuQDwDKBkxhnSk7bY5pbJUG"
+			]
+		}
+	},
+	"version": 1
+}
